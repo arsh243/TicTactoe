@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --orange: #f2c14e;
+    --winning-blocs: #2d414b;
+}
